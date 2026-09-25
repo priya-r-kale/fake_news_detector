@@ -111,7 +111,7 @@ streamlit run app.py
 
 **Omkar Kathare**
 
-📧 Email: omkarkathareworkplace@gmail.com
+📧 Email: pkale3922@gmail.com
 
 ---
 
