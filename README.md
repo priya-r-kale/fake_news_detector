@@ -109,7 +109,7 @@ streamlit run app.py
 
 ## 👨‍💻 Developer
 
-**Omkar Kathare**
+**Priya Kale**
 
 📧 Email: pkale3922@gmail.com
 
